@@ -97,6 +97,12 @@
                                         <li><a href="blog-single.html">HND in Art & Design</a></li>
                                     </ul>
                                 </li>
+                                <li class="menu-has-children"><a href="othm-qualification">Othm Qualification</a>
+                                    <ul>
+                                        <li><a href="/postgraguate-programmes">Postgraduate Programmes</a></li>
+                                        <li><a href="/specialist-qualification">Specialist Qualification</a></li>
+                                    </ul>
+                                </li>
                                 <li><a href="blog-home.html">Postgraduate</a></li>
                                 <li><a href="blog-home.html">ACCA</a></li>
                                 <li><a href="/professional-courses">Professionals Courses</a></li>
