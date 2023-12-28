@@ -31,6 +31,9 @@ Route::view('course-details-4', '/course-details-4');
 Route::view('contact', '/contact');
 Route::view('about', '/about');
 Route::view('apply-now', '/apply-now');
+Route::view('othm-qualification', '/othm-qualification');
+Route::view('postgraguate-programmes', '/postgraguate-programmes');
+Route::view('specialist-qualification', '/specialist-qualification');
 
 // single-feature links
 Route::view('international-mba', '/international-mba');
